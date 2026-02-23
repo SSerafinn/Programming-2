@@ -1,0 +1,15 @@
+Enter number of days : 8
+Enter day 1 : 1
+Enter day 2 : 2
+Invalid input. 
+Enter day 2 : 1
+Enter day 3 : 0
+Enter day 4 : 1
+Enter day 5 : 1
+Enter day 6 : 1
+Enter day 7 : 0
+Enter day 8 : 1
+
+Workout log: [1, 1, 0, 1, 1, 1, 0, 1]
+Total workout days: 6
+Longest streak: 3
