@@ -30,8 +30,8 @@ def main():
     for i in range (1, number_of_orders +1):
         amount_of_orders = amount_orders(i)
         
-        total += amount_of_orders
         
+        total += amount_of_orders
         if amount_of_orders >= 100:
             big_orders += 1
     
